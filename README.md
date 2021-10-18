@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://www.instagram.com/gustavob.alm_/" />
-  <img height='180em' src='https://github-readme-stats.vercel.app/api?username=Barbosa885&show_icons=true&theme=tokyonight' />
-  <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight'>
+  <img height='160em' src='https://github-readme-stats.vercel.app/api?username=Barbosa885&show_icons=true&theme=tokyonight' />
+  <img height='160em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight'>
 </div>
 
 <div style="display: inline_block"><br>
