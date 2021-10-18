@@ -1,4 +1,16 @@
-### Hello, world! I'm Barbosa
+# Welcome!
+
+ 
+## I'm Gustavo!
+
+ 
+:computer: I'm Front-End Developer!
+
+:house_with_garden: I’m from Brazil.
+
+:books: I’m currently learning everything.
+
+:outbox_tray: 2021 Goals: create a new project and find a new job.
 
 <div>
   <a href="https://www.instagram.com/gustavob.alm_/" />
@@ -26,3 +38,7 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+- Thanks for visiting.
+
+- Enjoy it!! o/
