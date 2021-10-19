@@ -1,15 +1,14 @@
 # Welcome! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
- 
 ## I'm Gustavo! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-:computer: I'm Front-End Developer! 
+:computer: I'm Front-End Developer! <img src="/https://github.com/Barbosa885/Barbosa885/blob/master/assets/react.png" />
 
 :house_with_garden: I’m from Brazil.
 
 :books: I’m currently learning everything.
 
-<img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m *currently learning* how to **flex README** on my **profile** 💪
+<img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m _currently learning_ how to **flex README** on my **profile** 💪
 
 <div>
   <a href="https://www.instagram.com/gustavob.alm_/" />
