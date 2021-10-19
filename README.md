@@ -2,7 +2,8 @@
 
 ## I'm Gustavo! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-:computer: I'm Front-End Developer! <img src="/https://github.com/Barbosa885/Barbosa885/blob/master/assets/react.png" width="29px">
+:computer: I'm Front-End Developer! 
+                                    <img src="https://github.com/Barbosa885/Barbosa885/blob/main/assets/react.png" width="29px">
 
 :house_with_garden: I’m from Brazil.
 
