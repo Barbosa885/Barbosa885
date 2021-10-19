@@ -2,7 +2,11 @@
 
 ## I'm Gustavo! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
+<<<<<<< HEAD
 <img alt="GIF"src="https://github.com/Barbosa885/Barbosa885/blob/main/assets/react.gif" width="20px"/> I'm Front-End Developer!
+=======
+<img src="https://github.com/Barbosa885/Barbosa885/blob/main/assets/react.gif" width="20px"/>I'm Front-End Developer! 
+>>>>>>> bf840dcad6e6db609119eab0a85b03b352fdfd1a
 
 <img alt="GIF" src="https://github.com/Barbosa885/Barbosa885/blob/main/assets/brazilian-flag.gif" width="20px" /> I’m from Brazil.
 
