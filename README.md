@@ -1,6 +1,6 @@
 # Welcome! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
-## I'm Gustavo! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+## I'm Gustavo! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 
 <img alt="GIF" src="https://github.com/Barbosa885/Barbosa885/blob/main/assets/react.gif" width="20px"/> I'm Front-End Developer!
 
