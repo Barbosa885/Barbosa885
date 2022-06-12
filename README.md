@@ -1,12 +1,12 @@
-# Welcome! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+# Welcome! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif>
 
-## I'm Gustavo! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
+## I'm Gustavo! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif">
 
-<img alt="GIF" src="https://github.com/Barbosa885/Barbosa885/blob/main/assets/react.gif" width="20px"/> I'm Front-End Developer!
+<img alt="GIF" src="https://github.com/Barbosa885/Barbosa885/blob/main/assets/react.gif"/> I'm Front-End Developer!
 
-<img alt="GIF" src="https://github.com/Barbosa885/Barbosa885/blob/main/assets/brazilian-flag.gif" width="20px" /> I’m from Brazil.
+<img alt="GIF" src="https://github.com/Barbosa885/Barbosa885/blob/main/assets/brazilian-flag.gif"/> I’m from Brazil.
 
-<img alt="GIF" src="https://github.com/Barbosa885/Barbosa885/blob/main/assets/books.gif" width="20px" /> I’m currently learning everything.
+<img alt="GIF" src="https://github.com/Barbosa885/Barbosa885/blob/main/assets/books.gif"/> I’m currently learning everything.
 
 <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20vw"/> I’m _currently learning_ how to **flex README** on my **profile** 💪
 
