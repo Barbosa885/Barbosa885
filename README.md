@@ -1,14 +1,14 @@
-# Welcome! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif>
+# Welcome! 
 
-## I'm Gustavo! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif">
+## I'm Gustavo! 
 
-<img alt="GIF" src="https://github.com/Barbosa885/Barbosa885/blob/main/assets/react.gif"/> I'm Front-End Developer!
+I'm Front-End Developer!
 
-<img alt="GIF" src="https://github.com/Barbosa885/Barbosa885/blob/main/assets/brazilian-flag.gif"/> I’m from Brazil.
+I’m from Brazil.
 
-<img alt="GIF" src="https://github.com/Barbosa885/Barbosa885/blob/main/assets/books.gif"/> I’m currently learning everything.
+I’m currently learning everything.
 
-<img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20vw"/> I’m _currently learning_ how to **flex README** on my **profile** 💪
+I’m _currently learning_ how to **flex README** on my **profile** 💪
 
 <div>
   <a href="https://www.instagram.com/gustavob.alm_/" />
