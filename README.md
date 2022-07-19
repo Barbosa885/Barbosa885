@@ -1,4 +1,4 @@
-# Welcome! 
+# Welcome! <img src="https://user-images.githubusercontent.com/80699703/179843522-f28f9ec0-8100-41c5-a396-7d504216c7ce.gif" width="100" height="100" align="center"> 
 
 ## Hello visitors, I'm Gustavo! 
 
