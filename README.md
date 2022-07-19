@@ -4,7 +4,7 @@
 
 I'm currently improving my skills in front-end Development! ⚛️
 
-I’m from Brazil. 
+I’m from Brazil. 🔝💯
 
 I’m currently learning everything. 📚
 
