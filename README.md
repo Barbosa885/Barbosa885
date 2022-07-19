@@ -1,12 +1,12 @@
 # Welcome! 
 
-## I'm Gustavo! 
+## Hello visitors, I'm Gustavo! 
 
-I'm Front-End Developer!
+I'm currently improving my skills in front-end Development! ⚛️
 
-I’m from Brazil.
+I’m from Brazil. 
 
-I’m currently learning everything.
+I’m currently learning everything. 📚
 
 I’m _currently learning_ how to **flex README** on my **profile** 💪
 
