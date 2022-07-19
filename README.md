@@ -8,8 +8,6 @@ I’m from Brazil. 🔝💯
 
 I’m currently learning everything. 📚
 
-I’m _currently learning_ how to **flex README** on my **profile** 💪
-
 <div>
   <a href="https://www.instagram.com/gustavob.alm_/" />
   <img height='160em' src='https://github-readme-stats.vercel.app/api?username=Barbosa885&show_icons=true&theme=tokyonight' />
