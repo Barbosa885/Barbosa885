@@ -2,7 +2,7 @@
 
 ## Hello visitors, I'm Gustavo! 
 
-I'm currently improving my skills in front-end Development! ⚛️
+I'm currently improving my skills in web Development! ⚛️
 
 I’m from Brazil. 🔝💯
 
