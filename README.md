@@ -6,7 +6,7 @@ I'm currently improving my skills in web Development! ⚛️
 
 I’m from Brazil. 🔝💯
 
-I’m currently learning everything. 📚
+I like to learn new things 
 
 <div>
   <a href="https://www.instagram.com/gustavob.alm_/" />
