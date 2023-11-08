@@ -6,10 +6,6 @@ I'm currently improving my skills in web Development! ⚛️
 
 I’m from Brazil. 🔝💯
 
-<div>
-  <a href="https://www.instagram.com/gustavob.alm_/" />
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Gu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gu-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
