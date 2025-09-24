@@ -1,5 +1,5 @@
 ```JS
-import Desenvolvedor from "Barbosa885";
+import Developer from "Barbosa885";
 
 class SobreMim extends Desenvolvedor {
   nome = "Gustavo Barbosa";
@@ -8,7 +8,7 @@ class SobreMim extends Desenvolvedor {
   local = "Brasília - DF";
 }
 
-class Skills extends Desenvolvedor {
+class Skills extends Developer {
   linguagens = ["Typescript, Javascript, C#, Python, C++"];
   bibliotecas = ["ShadcnUI, TailwindCSS"];
   frameworks = ["NextJS, T3, .NET"];
