@@ -4,7 +4,7 @@ import Developer from "Barbosa885";
 class AboutMe extends Developer {
   name = "Gustavo Barbosa";
   area = "Dev FullStack";
-  workAt = "@PCP(Portal de Compras Públicas)";
+  workingAt = "@PCP(Portal de Compras Públicas)";
   location = "Brasil. Brasília, DF";
 }
 
