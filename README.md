@@ -14,8 +14,8 @@ class Skills extends Developer {
   frameworks = ["NextJS, T3, .NET"];
 }
 
-- Thanks for visiting.
-- Enjoy it!! \o/
+// - Thanks for visiting.
+// - Enjoy it!! \o/
 
 ```
 ##
