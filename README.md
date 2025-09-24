@@ -5,7 +5,7 @@ class AboutMe extends Developer {
   name = "Gustavo Barbosa";
   area = "Dev FullStack";
   workAt = "@PCP(Portal de Compras Públicas)";
-  location = "Brasília - DF";
+  location = "Brasil. Brasília, DF";
 }
 
 class Skills extends Developer {
