@@ -1,16 +1,16 @@
 ```JS
 import Developer from "Barbosa885";
 
-class SobreMim extends Desenvolvedor {
-  nome = "Gustavo Barbosa";
+class AboutMe extends Developer {
+  name = "Gustavo Barbosa";
   area = "Dev FullStack";
-  trabalho = "@PCP(Portal de Compras Públicas)";
-  local = "Brasília - DF";
+  workAt = "@PCP(Portal de Compras Públicas)";
+  location = "Brasília - DF";
 }
 
 class Skills extends Developer {
-  linguagens = ["Typescript, Javascript, C#, Python, C++"];
-  bibliotecas = ["ShadcnUI, TailwindCSS"];
+  languages = ["Typescript, Javascript, C#, Python, C++"];
+  libraries = ["ShadcnUI, TailwindCSS"];
   frameworks = ["NextJS, T3, .NET"];
 }
 
